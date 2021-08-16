@@ -136,7 +136,7 @@ body{
 	}
 }
 
-@media(max-wdith:  650px){
+@media(max-width:  650px){
 	body{
 		background-color: #fff;
 	}
